@@ -1,0 +1,41 @@
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\TestHarness.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\TestHarness.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\TestHarness.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Builder.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\FileSystemManager.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Repository.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\XMLHandler.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Builder.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Builder.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\FileSystemManager.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\FileSystemManager.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Repository.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Repository.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\XMLHandler.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\XMLHandler.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\bin\Debug\Logger.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\obj\Debug\TestHarness.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\CoreBuildServerV2\CoreBuildServer\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\BuildRequest.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\IService.dll
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\Logger.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\PluggableCommService.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\BuildRequest.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\BuildRequest.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\IService.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\IService.dll.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\Logger.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\Logger.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\PluggableCommService.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\bin\Debug\PluggableCommService.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\TestHarness\obj\Debug\TestHarness.pdb

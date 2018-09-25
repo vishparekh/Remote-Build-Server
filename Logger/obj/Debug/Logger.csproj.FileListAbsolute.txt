@@ -1,0 +1,34 @@
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\bin\Debug\Logger.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\bin\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\bin\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\obj\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\Logger\obj\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe.config
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\bin\Debug\Logger.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\Logger\obj\Debug\Logger.pdb

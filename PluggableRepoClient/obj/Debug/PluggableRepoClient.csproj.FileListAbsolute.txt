@@ -1,0 +1,155 @@
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.dll
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\App.g.cs
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.baml
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\RemoteBuildServerPrototypes\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+D:\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\IService.dll.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\vishal\Desktop\Project4\RemoteBuildServerPrototypes\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb

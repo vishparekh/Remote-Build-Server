@@ -1,0 +1,168 @@
+12/6/2017 7:30:57 PM ==> Build Succesfull
+12/6/2017 7:30:57 PM ==> 
+12/6/2017 7:30:57 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:30:57 PM ==> Error in Code
+
+12/6/2017 7:30:57 PM ==> 
+12/6/2017 7:30:57 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver3.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver3.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 7:32:35 PM ==> Build Succesfull
+12/6/2017 7:32:35 PM ==> 
+12/6/2017 7:32:35 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:32:35 PM ==> Error in Code
+
+12/6/2017 7:32:35 PM ==> 
+12/6/2017 7:32:35 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver1.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 7:34:50 PM ==> Build Succesfull
+12/6/2017 7:34:50 PM ==> 
+12/6/2017 7:34:50 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:34:50 PM ==> Error in Code
+
+12/6/2017 7:34:50 PM ==> 
+12/6/2017 7:34:50 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver1.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 7:36:19 PM ==> Build Succesfull
+12/6/2017 7:36:19 PM ==> 
+12/6/2017 7:36:19 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:36:19 PM ==> Error in Code
+
+12/6/2017 7:36:19 PM ==> 
+12/6/2017 7:36:19 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver1.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 7:36:53 PM ==> Build Succesfull
+12/6/2017 7:36:53 PM ==> 
+12/6/2017 7:36:53 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:36:53 PM ==> Error in Code
+
+12/6/2017 7:36:53 PM ==> 
+12/6/2017 7:36:53 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver3.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver3.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 7:39:23 PM ==> Build Succesfull
+12/6/2017 7:39:23 PM ==> 
+12/6/2017 7:39:23 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 7:39:23 PM ==> Error in Code
+
+12/6/2017 7:39:23 PM ==> 
+12/6/2017 7:39:23 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver3.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver3.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 9:54:20 PM ==> Build Succesfull
+12/6/2017 9:54:20 PM ==> 
+12/6/2017 9:54:20 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 9:54:20 PM ==> Error in Code
+
+12/6/2017 9:54:20 PM ==> 
+12/6/2017 9:54:20 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver1.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
+12/6/2017 9:55:29 PM ==> Build Succesfull
+12/6/2017 9:55:29 PM ==> 
+12/6/2017 9:55:29 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+
+12/6/2017 9:55:29 PM ==> Error in Code
+
+12/6/2017 9:55:29 PM ==> 
+12/6/2017 9:55:29 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver1.cs(15,14): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(15,37): error CS0246: The type or namespace name 'CodeToTest1' could not be found (are you missing a using directive or an assembly reference?)
+
